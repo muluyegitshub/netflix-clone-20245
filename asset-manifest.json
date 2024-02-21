@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e8fddb2.css",
+    "main.js": "/static/js/main.f180f33a.js",
+    "static/media/NetflixLogo.png": "/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/index.html",
+    "main.2e8fddb2.css.map": "/static/css/main.2e8fddb2.css.map",
+    "main.f180f33a.js.map": "/static/js/main.f180f33a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8fddb2.css",
+    "static/js/main.f180f33a.js"
+  ]
+}
