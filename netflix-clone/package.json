@@ -1,5 +1,5 @@
 {
-  "HomePage": "https://muluye.github.io./netflix-clone-20245",
+  "HomePage": "https://muluye.github.io/netflix-clone-20245",
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
@@ -46,7 +46,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
-    "git-pages": "^0.8.1"
+    "gh-pages": "^6.1.1"
   }
 }
